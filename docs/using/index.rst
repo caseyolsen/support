@@ -7,6 +7,6 @@ User Guide
    overview
    accounts
    data
-   eventbuffer
+   EventBuffer/index
    pipeline
    pipelinedetails
